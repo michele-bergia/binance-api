@@ -1,0 +1,1 @@
+enum RateLimitType { RAW_REQUEST, REQUEST_WEIGHT, ORDERS }
